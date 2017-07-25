@@ -12,4 +12,4 @@ def mult(arg1, arg2):
     """
     Function that multiplies two  arguements
     """
-    return 2 * 5
+    return arg1 * arg2
